@@ -2,8 +2,3 @@
 1:name = Gelbes M
 1:download = https://gofile.io/d/HhhXyC
 1:spotify = blank
-
-2:title = gelbes-m-cover.jpg
-2:name = Screenshote das
-2:download = blank
-2:spotify = www.google.com
